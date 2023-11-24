@@ -1,1 +1,1 @@
-# ut_project_setup
+# ut_next_generation_javascript_and_typescript
